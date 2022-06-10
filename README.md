@@ -8,12 +8,18 @@ The purpose of the following anlysis is to conduct an in depth investigation for
   - [ride_data.csv](Resources/ride_data.csv)
   
 uses accumulateed data from January to early May of 2019 on the following metrics: 
--	The total number of rides for each city type. 
--	The total number of drivers for each city type.
--	The sum of the fares for each city type.
--	The average fare per ride for each city type.
--	The average fare per driver for each city type.
--	The total fares for each week by city type. 
+
+:small_blue_diamond:	The total number of rides for each city type. 
+
+:small_blue_diamond: The total number of drivers for each city type.
+
+:small_blue_diamond:	The sum of the fares for each city type.
+
+:small_blue_diamond:	The average fare per ride for each city type.
+
+:small_blue_diamond:	The average fare per driver for each city type.
+
+:small_blue_diamond:	The total fares for each week by city type. 
 
 With a focus on exploratorty data analysis techniques (EDA) we are able to sort, clean, and create smaller data sets that are not only far easier to work with when coming to conclusions, but is also far easier for the end user to understand along with our supporting charts/graphs
 
