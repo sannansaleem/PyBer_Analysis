@@ -63,3 +63,14 @@ An examination of the stacked line graph that presents us the *Total Fare by Cit
   -	Rural cities have the lowest overall total fares, ranging from approx. $250 per week to approx. $500 per week.
   -	Suburban cities fall in between rural and urban ranging from approx. $650 per week to approxx. $1,450 per week.
   -	All cities have pretty steady flow of total fares from week to week with a matching spikes in the third week in February. Results in comparing urban ot suburban to rural make sense as the more densly populated an individual are, the more fares it recieves i.e. urban being the most populated, rural being the least, and suburban falling inbetween.
+
+## Summary 
+To summarize, te results above present to us a disproportionality amongst the distribution of rides wherein more densely populated areas (urban > suburban > rural) present with a higher number of not only rides but also drivers, yet their avg. fare per ride and driver is lower that that of suburban and rural cities.
+
+such so to balance out incomes for PyBer amogst the cities the following reccomendations could be made:
+
+1. Rural cities currently present with a higher rider to driver ratio implying the demand for drivers is currently not being met and so PyBer should look into collecting and analysing more data in rural cities specifically pertatining to drivers in order to increase total driver count which would imply a greater revenue within rural cities.
+2. There seems to a peak in all 3 cities during the month of february, further investigation into this may lead to an effective and strategic plan to capitalize on this trend.
+3. A profitatbility analysis by city type maybe useful to determine weather any incentives can be given to a certian geolocatio to further incentivise drivers/riders in that area to boost margins.
+
+
