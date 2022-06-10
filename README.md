@@ -1,5 +1,3 @@
-# PyBer_Analysis
-
 # PyBer Analysis
 *In depth analysis for PyBer, a Ride-Share company*
 
@@ -55,13 +53,13 @@ as they correlate to the amount of rides, drivers and fares using urban cities a
 
 <ins>**6.	The total fares for each week by city type.**</ins>
 
-  From the multi-line graph *Total Fare by City Type* we can see the results for each city type – urban, suburban and rural as it relates to the total fare amount per week.
+An examination of the stacked line graph that presents us the *Total Fare by City Type* we are able to conclude the results for each city type – urban, suburban and rural as it relates to the total fare amount per week.
 
 <p align="center">     
 <img src="resources/img/PyBer_fare_summary.png" width="60%" height="60%">
 </p>
 
-  -	Urban cities have the highest total fares overall. The amount is ranging from the lowest at about $1,600 per week to the highest at about $2,500 per week. 
-  -	Rural cities have the lowest total fares overall. The amount is ranging from the lowest at about $250 per week to the highest at about $500 per week.
-  -	Suburban cities fall in between. The total fares amount is ranging from the lowest at about $650 per week to the highest at about $1,450 per week.
-  -	All cities have pretty steady flow of total fares from week to week with a matching spike in the third week in February.
+  -	Urban cities present with the highest total overall fares, ranging from approx. $1,600 per week to approx. $2,500 per week. 
+  -	Rural cities have the lowest overall total fares, ranging from approx. $250 per week to approx. $500 per week.
+  -	Suburban cities fall in between rural and urban ranging from approx. $650 per week to approxx. $1,450 per week.
+  -	All cities have pretty steady flow of total fares from week to week with a matching spikes in the third week in February. Results in comparing urban ot suburban to rural make sense as the more densly populated an individual are, the more fares it recieves i.e. urban being the most populated, rural being the least, and suburban falling inbetween.
